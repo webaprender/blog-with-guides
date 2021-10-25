@@ -3,7 +3,12 @@
 <ul>
   <% @articles.each do |article| %>
     <li>
-      <a href="/articles/<%= article.id %>">
+      <!-- etiqueta html a con ruta especifica
+      <a href="/articles/<%= article.id %>"> 
+      -->
+      
+      <!-- usando metodo article_path -->
+      <a href="<%= article_path(article)%>">
         <%= article.title %>
       </a>
     </li>
