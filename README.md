@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Web App Ruby on Rails based on Official Guides 
 
-Things you may want to cover:
 
-* Ruby version
+Versions:
 
-* System dependencies
+* Ruby version 3.0.2
+* Rails 6.1.4.1
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Contents:
+From Chapter 5 to Chapter 6.2
